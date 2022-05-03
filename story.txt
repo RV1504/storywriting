@@ -3,3 +3,4 @@ hi there this is raghav.
 working directory
 staging area
 written in present changes
+gitignore

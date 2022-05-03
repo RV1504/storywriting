@@ -1,0 +1,7 @@
+#this is a comment. Can be used in gitignore
+
+#you can use wildcards
+
+
+secrets.txt
+secret.txt
